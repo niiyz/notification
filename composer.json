@@ -1,0 +1,15 @@
+{
+    "name": "niiyz/notification",
+    "authors": [
+        {
+            "name": "niiyz",
+            "email": "yoshida@niiyz.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
