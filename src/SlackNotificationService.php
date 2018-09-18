@@ -1,6 +1,6 @@
 <?php
 
-namespace Notification;
+namespace Niiyz\Notification;
 
 use GuzzleHttp\Client as GuzzleClient;
 

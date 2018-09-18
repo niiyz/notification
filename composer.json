@@ -6,6 +6,11 @@
             "email": "yoshida@niiyz.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Niiyz\\Notification\\": "src"
+        }
+    },
     "scripts": {
         "test": [
             "vendor/bin/phpunit  --bootstrap vendor/autoload.php tests"
